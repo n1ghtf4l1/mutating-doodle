@@ -6,7 +6,7 @@
 
 ### **Goal**
 
-Enzymes are proteins that act as catalysts in the chemical reactions of living organisms. The [goal](https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction/) is to predict the thermal stability of enzyme variants. The experimentally measured thermal stability (melting temperature) data includes natural sequences, as well as engineered sequences with single or multiple mutations upon the natural sequences.
+Enzymes are proteins that act as catalysts in the chemical reactions of living organisms. The [objective](https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction/) is to predict the thermal stability of enzyme variants. The experimentally measured thermal stability (melting temperature) data includes natural sequences, as well as engineered sequences with single or multiple mutations upon the natural sequences.
 
 Understanding and accurately predict protein stability is a fundamental problem in biotechnology. Its applications include enzyme engineering for addressing the world’s challenges in sustainability, carbon neutrality and more. Improvements to enzyme stability could lower costs and increase the speed scientists can iterate on concepts.
 
