@@ -50,7 +50,3 @@ VPVNPEPDATSVENVALKTGSGDSQSDPIKADLEVKGQSALPFDVDCWAILCKGAPNVLQRVNEKTKNSNRDRSGANKGP
 - **sample_submission.csv** - a sample submission file in the correct format, with ```seq_id``` values corresponding to **test.csv**
 
 - **wildtype_structure_prediction_af2.pdb** - the 3 dimensional structure of the enzyme listed above, as predicted by AlphaFold
-
-### **Evaluation**
-
-Submissions are evaluated on the [Spearman's correlation coefficient](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient) between the ground truth and the predictions.
