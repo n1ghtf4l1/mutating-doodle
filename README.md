@@ -45,8 +45,8 @@ VPVNPEPDATSVENVALKTGSGDSQSDPIKADLEVKGQSALPFDVDCWAILCKGAPNVLQRVNEKTKNSNRDRSGANKGP
     - ```data_source```: source where the data was published
     - ```tm```: target column. Since only the spearman correlation will be used for the evaluation, the correct prediction of the relative order is more important than the absolute ```tm``` values. (Higher ```tm``` means the protein variant is more stable.)
 
-- **test.csv** - the test data; your task is to predict the target ```tm``` for each ```protein_sequence``` (indicated by a unique seq_id)
+- **test.csv** - the test data; your task is to predict the target ```tm``` for each ```protein_sequence``` (indicated by a unique seq_id).
 
-- **sample_submission.csv** - a sample submission file in the correct format, with ```seq_id``` values corresponding to **test.csv**
+- **sample_submission.csv** - a sample submission file in the correct format, with ```seq_id``` values corresponding to **test.csv**.
 
-- **wildtype_structure_prediction_af2.pdb** - the 3 dimensional structure of the enzyme listed above, as predicted by AlphaFold
+- **wildtype_structure_prediction_af2.pdb** - the 3 dimensional structure of the enzyme listed above, as predicted by AlphaFold.
